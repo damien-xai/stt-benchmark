@@ -56,7 +56,12 @@ class TranscriptionCollectorObserver(BaseObserver):
             return
 
         if isinstance(frame, TranscriptionFrame):
-            self._handle_transcription(frame.text)
+            # Collect finalized (utterance-final) transcripts to avoid
+            # duplicating chunk-final segments. Fall back to all frames
+            # if no finalized frames are emitted (e.g., endpointing=0).
+            is_finalized = getattr(frame, "finalized", False)
+            if is_finalized or not self.transcriptions.get(self._current_sample_id):
+                self._handle_transcription(frame.text)
 
     def _handle_transcription(self, text: str) -> None:
         """Handle a final transcription result by concatenating.
@@ -66,6 +71,18 @@ class TranscriptionCollectorObserver(BaseObserver):
         """
         if not self._current_sample_id:
             logger.warning("Received transcription but no current sample set")
+            return
+
+        # Deduplicate: skip if text is already contained in accumulated transcription,
+        # or if accumulated text is a prefix of the new text (progressive accumulation)
+        existing = self.transcriptions.get(self._current_sample_id, "")
+        if text in existing:
+            logger.debug(f"Skipping duplicate transcription segment: '{text}'")
+            return
+        if existing and text.startswith(existing):
+            # New text contains existing as prefix - replace with new text
+            self.transcriptions[self._current_sample_id] = text
+            logger.debug(f"Replacing with longer transcription segment")
             return
 
         # Concatenate final transcriptions (streaming STT sends multiple segments)
