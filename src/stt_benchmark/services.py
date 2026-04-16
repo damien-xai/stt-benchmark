@@ -327,6 +327,19 @@ def create_whisper() -> FrameProcessor:
     )
 
 
+def create_xai() -> FrameProcessor:
+    from pipecat.services.xai.stt import XAISTTService
+
+    return XAISTTService(
+        api_key=_get_env("XAI_API_KEY"),
+        base_url="wss://api.x.ai/v1/stt",
+        settings=XAISTTService.Settings(
+            language=Language.EN,
+            endpointing=0,
+        ),
+    )
+
+
 # =============================================================================
 # SERVICE REGISTRY
 # =============================================================================
@@ -419,6 +432,10 @@ STT_SERVICES: dict[str, ServiceDefinition] = {
     "whisper": ServiceDefinition(
         factory=create_whisper,
         required_env_vars=[],  # Local model, no API key needed
+    ),
+    "xai": ServiceDefinition(
+        factory=create_xai,
+        required_env_vars=["XAI_API_KEY"],
     ),
 }
 
