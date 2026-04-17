@@ -96,6 +96,3 @@ mypy_path = "src"
 [tool.pytest.ini_options]
 asyncio_mode = "auto"
 testpaths = ["tests"]
-
-[tool.uv.sources]
-pipecat-ai = { path = "../pipecat-2", editable = true }

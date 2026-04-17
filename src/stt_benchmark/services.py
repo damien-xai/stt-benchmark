@@ -332,9 +332,10 @@ def create_xai() -> FrameProcessor:
 
     return XAISTTService(
         api_key=_get_env("XAI_API_KEY"),
-        base_url="wss://preprod.x.ai/v1/stt",
+        base_url="wss://api.x.ai/v1/stt",
         settings=XAISTTService.Settings(
             language=Language.EN,
+            endpointing=0,
         ),
     )
 
