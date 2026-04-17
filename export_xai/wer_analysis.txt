@@ -1,0 +1,403 @@
+XAI STT - COMPLETE WORD ERROR ANALYSIS (100 samples)
+====================================================================================================
+
+  1. WER:148.3% D: 0 I:34 R: 9 | 0c5e8fd6-3c3e-c97e-74c9-a90743d923e8
+     GT: Can you describe the process for chan geans my legal name on official documents like my driver licenses and social security card after getting married including necessary forms and office
+     TX: Kendra Just First. Create a process for Or Chen Jeans My The legal name on official documents Like my driver's licenses and social security You take car up After getting married, including necessary I'm gonna go ahead and say that I'm gonna go ahead and say that I'm gonna go ahead and say that Form Sanofi's
+
+  2. WER:122.6% D: 7 I:17 R:14 | 7f066b80-3a59-0bed-6465-f85935582dc5
+     GT: I'm trying to set up parental controls on my home Wi-Fi network to restrict access to certain websites during homework hours for my kids. But the router interface is very
+     TX: I'm trying set up I'm in Control for my home Bye-bye I'm at 5. district access to Certain websites during home No Yes I'm excited It's What about Oh, uh- Yes. I'm doing This is three
+
+  3. WER:111.5% D: 8 I:16 R: 5 | 930905b6-467c-3098-c100-7d08467961ea
+     GT: Can you provide a detailed step-by-step process for filing a homeowner's insurance claim for water damage caused by a recently burst plumbing pipe?
+     TX: Can you I need I understand First, they process for filling a whole On, on Insurance Fame For sure What The damage Cause I recently purchased That's fine Thank you Right.
+
+  4. WER:104.2% D: 0 I:17 R: 8 | e820357c-d0b5-11dd-6085-7c8a73e9d335
+     GT: I was wondering if you could help me find the nearest public library that has evening hours on Thursday because I work lake and
+     TX: I want Yes Wonder If you We'll have Help me find The new There is public library Sorry That has It's If you're Many hours Of course, I'll do it On Thursday. Because Fourth Lane Take Um.
+
+  5. WER: 93.8% D: 3 I:13 R:14 | 9ee9d60f-f794-36f2-cc7b-53bfb396ef1d
+     GT: I need to find a comprehensive guide on how to properly care for a bonsai tree indoors, specifically focusing on watering techniques, soil composition, and seasonal pruning for a ficus species.
+     TX: I need to The compliance good On how to アプリケーション One thing tree indoors spec It's I feel Of course On the watering techniques sorry Oil I'm posting And Just This is That Please I lean for Eighth Fick Yes
+
+  6. WER: 80.0% D: 3 I:15 R: 2 | b3882761-3cab-d5b2-30e0-5588aa172d90
+     GT: Can you tell me about the scientific theory of plate tectonics and explain how the movement of those plates is directly responsible for earthquakes
+     TX: You It's You're My About the scientific Theory of Please They take Tonics and explain how the movement of those It's, it's directly What's your well for? Wakes
+
+  7. WER: 71.4% D: 0 I: 6 R: 4 | fbe7161c-ac49-4909-1608-3a32179341f3
+     GT: Find a nearby gas station that is open right now and has diesel fuel
+     TX: I find a There are I think As a station that is open right now unhas This is fuel
+
+  8. WER: 54.5% D: 0 I:18 R: 0 | dfd167bb-59c2-9b9d-4c2a-e9a61c3e714e
+     GT: I would like to change my primary care physician and I'm looking for a new doctor within my insurance network who is accepting new patients and has office hours on Saturdays. So maybe
+     TX: I would like to change my primary care physician. mission There is no And I'm looking for a new doctor within my insurance network. There is no sound Who is accepting new patients and has office hours? on Saturdays. I'm gonna go ahead and say that. So maybe.
+
+  9. WER: 50.0% D: 0 I: 3 R: 1 | a020da8a-0e80-3e7e-b386-89e12341af75
+     GT: The well water is sputtering from the faucet
+     TX: The well water is spattering from the faucet I'm sorry
+
+ 10. WER: 50.0% D: 1 I:12 R: 1 | 32705937-195d-2eb0-fe22-856dc8558b23
+     GT: So the thing is that when I logged into my account yesterday, I noticed my user profile picture had been changed to a cartoon cat, which I didn't
+     TX: There is no sound. What's the thing? thing is That when I logged into my account yesterday, I'd noticed my user Her profile picture had been changed to a cartoon cat. which I do It's cent
+
+ 11. WER: 47.1% D: 0 I: 4 R: 4 | 89975396-e899-57de-9534-d71d04867968
+     GT: Please add organic olive oil whole wheat bread and three ripe avocados to my shopping list
+     TX: Please That L- Organic olive oil all What? For whole wheat bread and three ripe avocados to my shopping list.
+
+ 12. WER: 46.4% D: 3 I: 5 R: 5 | 0bd493e0-8299-eb3d-4cf0-205059107f16
+     GT: I'm trying to find a good recipe for a vegan chili that I can make in a slow cooker but all the ones I'm finding have very long
+     TX: I'm trying to A good recipe for vegan chili that I came in A slow cook So But Oh The the Once I'm fighting, have very long prides Bed
+
+ 13. WER: 44.8% D: 1 I: 7 R: 5 | fa27c85b-1af0-ee7b-53eb-bd4400090f4d
+     GT: Please translate the phrase where is the nearest train station and how much does a ticket cost into formal grammatically correct Italian for my upcoming trip to Rome next month
+     TX: At least Yes. Later The phrase Where is the mirror? train station and how much This is a ticket cost into Former Gourmet Correctly, correct Italian Again For my Upcoming keep to Rome next month.
+
+ 14. WER: 39.4% D: 1 I: 7 R: 5 | a934808b-1458-4655-5c9c-26655716a079
+     GT: The expensive package I ordered was marked as delivered two days ago but I have not received it and it is not anywhere on my property I must initiate an immediate trace
+     TX: Yes, my I'm back again Jai ho It was marked as delivered two days ago, but I have I received it And it is not any way on my property, I must init Thank you. Immediate trees
+
+ 15. WER: 37.9% D: 1 I:10 R: 0 | c2cbcd7e-2ffa-3b46-f088-204d8898e2c5
+     GT: I need to find a replacement water filter for my specific refrigerator model but I can't find the model number anywhere on the unit and I was hoping you could help me identify
+     TX: I need to find a replacement water filter It's Sure. My specific It's a Hey, bro refrigerator model, but I can't find the model number anywhere on the unit. And I was I'm hoping you could help me out Identify it
+
+ 16. WER: 37.5% D: 1 I: 3 R: 5 | 986b5956-3f3c-433f-6504-aa534cff161e
+     GT: Please explain the primary differences between a traditional IRA and Roth IRA in terms of the tax advantage and withdrawal rules for retirement saving
+     TX: Please explain the primary differences between a traditional uh- R E N Rod, uh, R. E. in terms of the tax Advantage and with Rolls. For retirement saving
+
+ 17. WER: 35.5% D: 1 I: 8 R: 2 | b2bcbc48-b1ae-339e-2285-0ffdf5189ef1
+     GT: I need to book a round trip flight for two adults from Chicago to Lisbon departing on the first Friday of October and returning ten days later preferably on a nonstop flight
+     TX: I need to book a round trip Yep It's a lot Right. The two two adults Built from Chicago to Lisbon Harding on the First Friday of October. and returning ten days later. preferably On a nonstop flight.
+
+ 18. WER: 32.3% D: 0 I: 1 R: 9 | 9c6b0b65-af07-75c7-e6de-757bd7dbf775
+     GT: My friend and I are having a debate about whether a tomato is a fruit or a vegetable and I'd like to find a definitive botanical explanation to settle the
+     TX: My Aaron and I are having a debate about whether it matters These are fruits or vegetables Cable And I'd like to Find a definitive botanical explanation to set to See
+
+ 19. WER: 32.3% D: 1 I: 7 R: 2 | 00491bfc-a029-ee29-4523-f34805aadffa
+     GT: I'm trying to choose a new internet service provider for my apartment. Can you compare the available plans in my area based on download speed, monthly cost, data caps, and customer reviews?
+     TX: I'm trying to choose a new internet service "for better for my apartment". Can you compare the I have several plants in my area based on download speed I'm sorry Monthly cost Data caps. And customer reviews?
+
+ 20. WER: 28.6% D: 1 I: 0 R: 1 | 0a2570b5-668a-ea08-0546-1db4e518482f
+     GT: How much juice is in one lime
+     TX: How A Juices in one lime.
+
+ 21. WER: 28.1% D: 0 I: 8 R: 1 | 58fac144-68f5-2aec-75f2-39337afa1447
+     GT: Can you help me troubleshoot my smart home thermostat which was disconnected from the Wi-Fi network and is no longer responding to any commands from its mobile application or voice controls?
+     TX: Can you? You help Shall we Also shoot my smart home thermostat which was disconnected. There is no sound. from The WiFi network and is no longer responsive Bonding any commands From its Mobile application or Voice controls
+
+ 22. WER: 27.6% D: 0 I: 3 R: 5 | aac8759a-3cdf-8839-335d-5a185768e6c4
+     GT: Please find the most up-to-date public transportation schedule for downtown bus route including any recent changes or detours that might affect my commute to work tomorrow morning.
+     TX: Please find the most Up to that. Public transport Efficient Scheduled for downtown That's right including any recent changes Or the tools that might affect my commute two Work tomorrow morning
+
+ 23. WER: 27.6% D: 0 I: 2 R: 6 | 4919946c-1e72-1af5-a14e-8b378cfe7890
+     GT: Please provide a list of effective natural and non-toxic methods for pest control in an organic vegetable garden specifically for dealing with aphids slugs and cabbage worms
+     TX: Please Provide a list of effective natural and non-toxic methods. For pace control You know Organic vegetable garden. specifically for dealing with AMP feeds It's Looks Uncurbed homes.
+
+ 24. WER: 27.3% D: 1 I: 6 R: 2 | 739f778d-e8e2-be4f-3fe6-015adcac4682
+     GT: Explain the difference between a high pressure and a low pressure weather system and describe how each one typically affects the local weather conditions such as temperature, wind, and the chance of precipitation.
+     TX: Yes The. The difference between the high pressure and the low pressure weather systems and describe how each one typically affects them Oh, go ahead Cold weather conditions. Such as temperature. went and the chance of precipitation.
+
+ 25. WER: 27.3% D: 0 I: 5 R: 4 | 9eba9131-2cf8-873d-9dc3-207ad8276555
+     GT: I have an important job interview for tomorrow for a project manager position and I'd like you to help me prepare by asking me some common behavioral questions related to leadership and conflict resolution
+     TX: I have an Important chapter of the Vipra Tantra Tomorrow. For a project manager position, and I'd like you to help me Prepare. They're asking me some common behavioral questions Related to leadership I'm And conflict resolution.
+
+ 26. WER: 27.3% D: 2 I: 3 R: 4 | 0baa9ab9-ce29-b095-2b86-c1f58b690f3f
+     GT: My car check engine light came on this morning could you list some of the most common reasons why this light might be activated in a modern vehicle today
+     TX: Like Car should Take engine light came on this morning Udell is Some of the most The common reason why this light might be active evaded in a modern vehicle today
+
+ 27. WER: 25.8% D: 5 I: 0 R: 3 | 7ee2a3d0-efec-f5b8-95b7-0ae338ae836e
+     GT: I just adopted a rescue dog and the shelter said she's a mixed breed. So I was curious if you could tell me about common traits of a beagle and boxer mix
+     TX: I just adopted a rescue dog. And the shelter said she's A mixed breed. So serious Tell me about more traits of a big and boxer mix
+
+ 28. WER: 25.7% D: 0 I: 8 R: 1 | b7cfd836-2867-09f5-77e1-264b76b4452b
+     GT: I need to find a reputable and insured local moving company that is available on the last weekend of this month for a two-bedroom apartment move across town with packing services included.
+     TX: You need to Find a reputable and insured local moving company. That is available on the last weekend of this month. I'm sure you're gonna get it. For a two bedroom apartment move across town. With packing services included.
+
+ 29. WER: 25.0% D: 0 I: 2 R: 1 | 934c2ffb-d39d-2163-5fd3-4348360314ef
+     GT: Can someone explain how to properly set up two-factor authentication please?
+     TX: Can someone explain? Explain how to properly set up two-factor Correct. Indication Please
+
+ 30. WER: 24.1% D: 0 I: 4 R: 3 | 03fdf223-366c-280d-ac70-3be5555afb6a
+     GT: Could you compare the main features and pricing plans of the top three cloud storage providers to help me decide which service best suits my personal data backup needs
+     TX: Could you compare the main features and pricing? planning Of the top three There is no sound Clouds Storage providers to help me decide which storage service It's My personal data backup needs.
+
+ 31. WER: 24.1% D: 1 I: 5 R: 1 | 759e278d-2d5f-dd75-9738-ec0555bbcfb1
+     GT: The garbage collection for our street was missed this week and all the neighbors still have their bins out on the curb so we were all trying to figure out if
+     TX: I'm good garbage collection for our street was missed this week We and all the neighbors It's Still have their bins out on the curb, so we were all trying figure out if
+
+ 32. WER: 24.1% D: 0 I: 5 R: 2 | ea91b37f-c2c8-ed28-1176-a3075410d132
+     GT: My laptop's fan has been running constantly at maximum speed for the past hour even when I only have a single web browser tab open, making it extremely noisy.
+     TX: My lab tops Yes. Fan has been And running One more Constantly At Max Excellent feed for the past hour even when I only have a single web browser Browser tab open. making it extremely noisy.
+
+ 33. WER: 23.3% D: 0 I: 2 R: 5 | b134b8e1-b79b-0b14-e56c-95592bdb0361
+     GT: Can you give me a simple easy to follow recipe for making homemade sourdough bread from scratch including instructions on how to create and maintain the necessary starter culture for the dough
+     TX: Can you give me a Simple, easy to follow recipe. For making homemade sourdough bread from scratch. In Including instructions on how to create and maintain the necessary startup Better culture for the No.
+
+ 34. WER: 22.2% D: 0 I: 2 R: 0 | 95c52928-0ca8-f732-e0f6-76ca2a96af35
+     GT: I'd like to know more about your international
+     TX: At I'd like to know more about your international Shipping
+
+ 35. WER: 20.0% D: 0 I: 4 R: 2 | 9e911f0d-f574-2970-3da1-7560a381d08f
+     GT: I believe my property tax assessment for this year is incorrect as it's significantly higher than all of my neighbors' assessments for similarly sized homes so I was wondering about
+     TX: I believe my proper I'm doing tax assessment For this year is incorrect Correct. As it's significantly higher than all of my My neighbor's assessments For similarly sized homes So I was wondering out
+
+ 36. WER: 20.0% D: 0 I: 1 R: 2 | fe677dbc-8e62-b679-7ef8-831298e24c18
+     GT: I'm worried my identity might have been stolen I need immediate assistance with this
+     TX: I'm Or my The entity might have been stolen Olen. I need immediate assistance with this problem.
+
+ 37. WER: 19.4% D: 0 I: 3 R: 3 | 989bf9c5-b087-994b-3b65-ff2dd43a5b00
+     GT: I have an upcoming trip to Europe next month and I need to inform my bank so that they don't flag my credit card for unusual activity while I'm traveling
+     TX: We have an upcoming trip to Europe next month And I need to inform my bank So they don't, don't flag my credit card for unusual activity. Well, I'm dropping aboard.
+
+ 38. WER: 19.4% D: 0 I: 5 R: 1 | f5ced402-3d40-8a78-7fa7-6fa51724046d
+     GT: We are trying to build a small vegetable garden and we're looking for good companion plants for tomatoes specifically something that would help deter common pests like aphids and hornworms
+     TX: We You're Trying to build a small vegetable garden and we're looking for For good companion plants for tomatoes, specifically something I think that would help deter common pests It's like Haffids and hornworms.
+
+ 39. WER: 19.4% D: 0 I: 1 R: 5 | ddcfaf85-f15a-1908-3660-c43260ecc5aa
+     GT: Can you tell me how to clear the cake and cookies on my web browser and also explain what the potential benefits of doing this regularly for my computer's performance are
+     TX: Can you tell? Tell me how to clear the cache And cookies on my web browser I'm also Same for the potential benefits of doing this regularly for my computer Performance are
+
+ 40. WER: 18.8% D: 0 I: 3 R: 3 | 60590679-1bb1-0cd7-32a9-c3f21c7b5d05
+     GT: Please explain the difference between a traditional IRA and a Roth IRA in terms of their tax advantages, contribution limits, and the rules governing withdrawals during retirement for each account type.
+     TX: Please explain the difference between the two International IRA and the Roths IRA in terms of their Yes, that Monteys Contribution limit And the rules governing withdrawals during retirement for each account Phone's type
+
+ 41. WER: 17.9% D: 0 I: 4 R: 1 | 47ab8b1c-9dc9-88b1-153e-f33553a906ec
+     GT: I was wondering if you could look up my account and see if the last transaction from the corner grocery store has posted because it's not showing
+     TX: I was Wondering if If you You could look up my account and see if the last transaction from the Owner grocery store The store has posted Because it's not showing
+
+ 42. WER: 17.6% D: 0 I: 3 R: 0 | 937c1bf8-4857-71dc-c05f-dfe0a21b65ca
+     GT: The salesperson told me this would be compatible with my existing setup, but it doesn't seem to
+     TX: The Salesperson Tell me this will be compatible with my existing setup, but it doesn't It doesn't seem to
+
+ 43. WER: 17.2% D: 0 I: 3 R: 2 | 2be830d1-be85-9f11-0d40-8fda864601b7
+     GT: I am planning a cross road trip and need help creating a logical route that minimizes driving time while also including stops at three major national parks along the way
+     TX: I am planning a cost country road trip. And need Help create an logical route that minimizes driving Time will all Also including stops At three three major national parks along the way
+
+ 44. WER: 16.7% D: 0 I: 1 R: 0 | b5a2b5af-7691-56b7-24ee-30eff4527439
+     GT: Tell me about Shakespeare's Globe theater
+     TX: Tell me about Shakespeare Fears Globe Theater.
+
+ 45. WER: 15.2% D: 0 I: 3 R: 2 | cf7edb90-0103-9853-b160-b81f7fc90fc0
+     GT: What is the process for obtaining a certified copy of a birth certificate from another state including which government office to contact and what information I will need to provide them?
+     TX: What is the process We're obtaining a certified copy You have a birth certificate from another state Including which government office Contact And what information I will need to provide them? M
+
+ 46. WER: 14.7% D: 0 I: 4 R: 1 | bdbbe0e2-ba12-e935-1215-8f805cfa4ee1
+     GT: I'm trying to set up parental controls on my child's new tablet but the interface is really confusing and I can't figure out so how to restrict access to specific applications and websites"
+     TX: I'm trying to set up Payantak Controls on my child's new tablet. There is no sound. But The interface is really confusing and I can't figure out The So How to restrict access to specific applications? and websites
+
+ 47. WER: 14.3% D: 0 I: 2 R: 0 | 60cda6b7-778b-7520-118c-19f025fe0e4f
+     GT: My office number is 7 1 4 5 5 5 6 7 8 9
+     TX: I My office number is 7 1 4 5 5 5 Yes. 6 7 8 9.
+
+ 48. WER: 13.8% D: 0 I: 2 R: 2 | 08b33890-e5b9-bcd4-00e1-0b3d7a120e5b
+     GT: I am calling because I have a question for about a specific feature in your software. Because I was trying to export a report to a PDF file, but the format keeps getting all messed
+     TX: Uh. I am Calling 'Cause I have a question Um. Or about a specific feature in your software? Because I was trying Trying to explain Court a report port to a PDF file? But the reform act keeps getting all messed up Up.
+
+ 49. WER: 12.5% D: 0 I: 1 R: 0 | 6744343e-ef8c-3154-50a2-5ad464c723bc
+     GT: This is Samantha Lee with a night to
+     TX: This Is Samantha Lee? With a night to room.
+
+ 50. WER: 12.5% D: 0 I: 0 R: 4 | ba91eab8-3074-c881-a627-2cf56038d65e
+     GT: I signed up for the advanced pottery class that was supposed to start this evening but the community center is completely dark and the door are locked so I was wondering if
+     TX: I Sign up. For the advanced Pottery class, that was Post It's Um. Yes Evening. But the community center is completely different And the door are locked So So I was wondering
+
+ 51. WER: 12.1% D: 0 I: 4 R: 0 | c1d2b848-0f79-52cb-d917-367ae9fed45c
+     GT: I want to cancel my subscription to the premium streaming service but I can't find the option anywhere on the website. Please provide a direct link or step-by-step navigation instructions.
+     TX: I want to cancel my subscription. There is no sound. to the Premium Streaming service But I can't find the option anywhere on the website. Please Provide a direct link Or step by step navigation instructions.
+
+ 52. WER: 10.7% D: 0 I: 1 R: 2 | 4484a2a0-a854-cd3f-74ef-75c7231b39b8
+     GT: I'm trying to understand the billing cycle for my new internet service, specifically whether I'm billed for the month ahead or for the month that has just passed. So
+     TX: I'm trying to understand the building cycle for my new internet service Specifically, whether I'm built for the month ahead or For the month that has just passed Pass So
+
+ 53. WER: 10.0% D: 1 I: 1 R: 1 | ea7cd5dd-7c2d-8e30-9bb4-348f4a199080
+     GT: I would like a recipe for a vegan lentil soup that is both hearty and easy to make on a weeknight preferably one that uses only common inexpensive pantry staple
+     TX: I Hello! Like a recipe for a vegan London soup that is both hearty And easy to make on a weekday preferably One that uses only common "Inexpensive pantry staples.
+
+ 54. WER:  9.7% D: 0 I: 2 R: 1 | bcdf094b-6bc3-e5eb-e041-01a8de913e32
+     GT: I'm trying to dispute a transaction from last month but the online form keeps giving me an error message right after I upload the supporting documents for the claim and
+     TX: I'm trying to dispute a transaction from last Last month But the online form keeps giving me an error message right after I upload the submission Recording documents for the Claim and
+
+ 55. WER:  9.7% D: 0 I: 1 R: 2 | 4b7a080d-1731-4a93-e876-2f7c242877b8
+     GT: I need to get a copy of my daughter's birth certificate for a school registration but I'm not sure which government office I need to contact or what documents are
+     TX: I need to get a copy of my doctor's Our certificate For school resi- Registration But I'm not sure Which government office I need to contact? Or what documents are
+
+ 56. WER:  9.7% D: 0 I: 3 R: 0 | b54462d5-7706-c236-2e93-aa16724e2e42
+     GT: I need to file an insurance claim for a minor fender bender that happened yesterday afternoon but I'm not sure which specific form I need to fill out on your
+     TX: I need We need to file an insurance claim for a minor fender bender that happened Happened yesterday afternoon. But I'm not sure which specific form I need to fill out on your
+
+ 57. WER:  9.4% D: 0 I: 3 R: 0 | 669963c2-85d0-d997-6988-b1d0ea46b047
+     GT: Find a vegan lasagna recipe that uses cashew cream instead of cheese and includes a variety of roasted vegetables but which does not require a food processor for any of the steps
+     TX: Find a vegan lasagna recipe. That uses Cashew Cream instead of cheese She's And including Includes a variety of roasted vegetables But which does not require a food product processor For any of the steps
+
+ 58. WER:  8.0% D: 0 I: 1 R: 1 | 0ff9664b-2d12-7d3d-eb35-10a4b57061ee
+     GT: to uh I didn't climb the stairs that Rocky did I wish I had done that I just didn't have time but
+     TX: to uh I didn't climb the stairs, that rock. He did. I wish I had done that. I just didn't have time.
+
+ 59. WER:  7.7% D: 0 I: 1 R: 0 | b980f45a-7289-f63f-0923-2fe102deb8c2
+     GT: The little green light on my laptop charger isn't on anymore, so
+     TX: . The little green light on the My laptop Top Charger isn't on anymore. So
+
+ 60. WER:  7.4% D: 0 I: 2 R: 0 | 152f8aa9-5d91-31c0-60ca-0d6c68261e13
+     GT: I'm interested in learning how to play the ukulele and I was wondering if you could recommend some beginner-friendly tutorials or online courses that I could
+     TX: I'm interested in learning how to play the ukulele Ukulele, and I was wondering if you could recommend some Beginner friendly tutorials or online courses Horses that I could
+
+ 61. WER:  7.1% D: 0 I: 1 R: 1 | 4b4d7013-00b1-742e-299a-1b22dab617ee
+     GT: There is a large pothole in my street that is a major traffic hazard and I would like to report its location to the city's public works department
+     TX: There is a large But ho- In my street That is a major Traffic hazard And I would like to report its location to the city's public Works department.
+
+ 62. WER:  7.1% D: 0 I: 1 R: 1 | d74099f5-f4ea-bbdc-e351-fcf28c6f36b2
+     GT: I want to add my daughter to my streaming service account as a new user but I can't figure out how to create a separate profile
+     TX: I want It's Add my daughter to my Streaming service Yeah. As a new user. But I can't figure out how to create a separate profile.
+
+ 63. WER:  6.9% D: 0 I: 1 R: 1 | 0d29fa0a-ab6d-a422-9ea4-f7e956b66a60
+     GT: I'm trying to use a coupon I found online for 20% off my order. But when I enter it into my promo code box at checkout it says
+     TX: I'm Trying to use a coupon I have That Found online for twenty percent off my order But when I enter it into my promo code Bo. Hox at check It says
+
+ 64. WER:  6.5% D: 0 I: 1 R: 1 | e6cf18ae-d491-e98a-1f3e-7c6032b3d83e
+     GT: What's the best technique for removing a stubborn red wine stain from a light colored wool carpet if the spill happened several hours ago and has already started to set in?
+     TX: What's The list Technique Removing a stubborn red wine stain From a light color wool carpet Pete, if This spill happened several hours ago and has a- Already started to set in
+
+ 65. WER:  6.2% D: 0 I: 2 R: 0 | d2c8f37f-bd28-ab2b-9410-2bb395a83beb
+     GT: I'm interested in adopting a dog from a local shelter and need information on the entire adoption process including typical fees home visit requirements and what to expect during the week
+     TX: I'm interested in adopting a dog from a local shelter and need information On the entire ad- adoption process including Fees Home visit requirements and What to expect? During the week Cue
+
+ 66. WER:  6.2% D: 0 I: 1 R: 1 | c8d3ce08-5144-73cb-763e-3b101d35e44a
+     GT: A pop-up window appeared on my computer screen claiming that my system was infected with multiple viruses and that I needed to call a specific phone number immediately for technical support.
+     TX: A pop up window appeared on my computer screen. In claiming that my system was infected with malware virus And that I needed to call a Pacific phone number immediately for technical support. court
+
+ 67. WER:  6.1% D: 0 I: 1 R: 1 | ccd031a0-b2a7-8693-c226-00105fbb37d2
+     GT: I'm trying to sync my contacts from my old phone to my new one, but only about half of them are transferring over, and the rest seem to be stuck somewhere, because
+     TX: I'm trying to Sink my can Contacts From my old phone to my new one. But Only about half of them are transferring over And the rest seem to be stuck somewhere Because
+
+ 68. WER:  3.6% D: 0 I: 0 R: 1 | 84ec1ac6-fe87-1b5d-63f1-c3ddf79fe444
+     GT: I believe there was an error in my last paycheck because the amount for overtime hours seems to be incorrect when I calculate it based on the hours I was submitted and
+     TX: I believe there was an error in my last I'm sorry Paycheck because the month For overtime hours seem to be incorrect When I calculate it based on hours I was submitted There's no sound. And
+
+ 69. WER:  3.6% D: 0 I: 1 R: 0 | 381eb51f-21fb-8b09-ef66-a8937b11d74d
+     GT: I need to find the best route to the airport for a 7:00 a.m. flight tomorrow, avoiding the main highway because I heard there's major construction happening there
+     TX: I need to find the best route to the airport for, a 7 AM flight tomorrow. Avoiding the main highway because I heard there's major construction Construction happening there
+
+ 70. WER:  3.2% D: 0 I: 1 R: 0 | 3081b275-4fa3-f9d4-0ca3-55f598a37fca
+     GT: Can you give me the step-by-step instructions for making a classic sourdough starter from scratch? I have the flour and water, but I'm unsure about the feeding schedule and
+     TX: Can you give me Maybe the step by step instructions for making a classic sourdough? starter from scratch I have the flour and water. But I'm unsure about the feeding schedule and
+
+ 71. WER:  3.2% D: 0 I: 0 R: 1 | ee1a7549-fe4b-b5bf-77dc-9da75130e33c
+     GT: I'm trying to set up a new wireless printer and I followed all the instructions in the manual but my computer is still unable to detect it on the network so
+     TX: I'm trying to set up a new wireless printer And I followed all the instructions in the manual. Or my computer is still unable to detect it on the network so Uh
+
+ 72. WER:  3.1% D: 0 I: 0 R: 1 | b5659356-af58-8088-4790-edeb85fd3295
+     GT: Can you look up the current holder of the world record for the longest time spent continuously playing a video game and also the previous record was because I'm settling a
+     TX: Can you look up the current holder of the? World record for the longest times pants continuously Playing a video game and Also, the previous record was Because I'm settling Uh.
+
+ 73. WER:  3.1% D: 0 I: 1 R: 0 | 3b32a135-8f1d-e811-c441-de5e5026617b
+     GT: My streaming service subscription is set to auto-renew tomorrow, but I want to cancel it before the charge goes through and I can't seem to find the cancellation option anywhere.
+     TX: Uh. my street Streaming service subscription is set to auto renew tomorrow. Oh. But I want to cancel it. before the charge goes through I did not seem to find the cancellation option anywhere
+
+ 74. WER:  2.8% D: 0 I: 0 R: 1 | 5a3c6e2a-efdb-7d02-ae93-9e3ba0f7c1f6
+     GT: I have two different job offers and I'm trying to decide which one to accept, so I was wondering if you could help me compare the benefits packages, specifically the health insurance deductibles and the retirement contribution matching, because
+     TX: I have two different job For And I'm trying to decide which one to accept. So I was wondering if you could help me compare the benefits packages. It's Specifically, the health insurance deductible and the retirement contribution matching Because
+
+ 75. WER:  0.0% D: 0 I: 0 R: 0 | e02b3cc7-0a8d-83d6-85a4-1f3240b18e47
+     GT: Please provide a detailed comparison of the pros and cons of solar panel installation for a home including initial cost long-term savings maintenance and potential environmental benefits
+     TX: Please provide Yeah, detailed comparison of the pros and cons of solar power panel installation for a home, including initial cost cost long term savings Maintenance and potential environmental benefits
+
+ 76. WER:  0.0% D: 0 I: 0 R: 0 | ab216e4a-b927-b6c1-393c-2abf4f2bd5b5
+     GT: Send it.
+     TX: Send it.
+
+ 77. WER:  0.0% D: 0 I: 0 R: 0 | d1756da4-a19b-ed98-915b-ddefe9eb6ab0
+     GT: I'm planning a trip to the National Park next month and I need to find out if I have to reserve a time slot to enter the park or if I can
+     TX: I'm planning a trip to the national park next month And I need to find out if I have to reserve a time slot to Enter the park. Or if I can.
+
+ 78. WER:  0.0% D: 0 I: 0 R: 0 | f1069e64-44c8-9fd5-d54e-f03567582f63
+     GT: We might need to prepare for the possibility that
+     TX: We might need to prepare for the possibility That
+
+ 79. WER:  0.0% D: 0 I: 0 R: 0 | b35e06ae-28f5-8498-8d1e-244dc02d1671
+     GT: you might think why would you want to put acid on your face but it's actually not
+     TX: You might think, "Why would you wanna put acid on your face? " But it's actually not
+
+ 80. WER:  0.0% D: 0 I: 0 R: 0 | 356d3518-21f9-a281-9ed9-fa950f81d8fc
+     GT: a private league and then they played for their high school
+     TX: Uh, private league, and then they played for their high school Well.
+
+ 81. WER:  0.0% D: 0 I: 0 R: 0 | 8facde28-4202-7470-0814-fa34f0ca84a5
+     GT: take my kids to their games and watch my kids play sports so
+     TX: Take my kids to their games and watch my kids play sports. So
+
+ 82. WER:  0.0% D: 0 I: 0 R: 0 | ca46319c-e790-a8f6-4793-7ab542a6d95d
+     GT: What's the meaning of this idiom barking up the wrong
+     TX: What's the meaning of this idiom? Barking up the wrong
+
+ 83. WER:  0.0% D: 0 I: 0 R: 0 | 75eb8a99-8eef-d824-2020-c77a9296c82a
+     GT: too cold to swim although we try and convince her to swim every single
+     TX: It Too cold to swim. Although we try and convince her to swim every single
+
+ 84. WER:  0.0% D: 0 I: 0 R: 0 | da66feba-9052-77a3-3334-8cc99533b59a
+     GT: Could you check reading R dash seven eight nine
+     TX: Could you check reading R dash? 7 8 9.
+
+ 85. WER:  0.0% D: 0 I: 0 R: 0 | 11106a5e-866c-8715-4dc7-a66377614523
+     GT: Please
+     TX: Please.
+
+ 86. WER:  0.0% D: 0 I: 0 R: 0 | 7da21afd-7e50-50d8-1b15-2a77863725b5
+     GT: I mean from the this pace that he's going like this first year
+     TX: I mean, from this pace that he's going, like this first year?
+
+ 87. WER:  0.0% D: 0 I: 0 R: 0 | 778871eb-de6e-3f41-8f5b-c3827d11733b
+     GT: of the uh computer working system and
+     TX: of the Uh. a computer working system and
+
+ 88. WER:  0.0% D: 0 I: 0 R: 0 | 2393dc9d-a670-9868-1e24-96bbde760eba
+     GT: When will my groceries be delivered?
+     TX: When will my groceries be? be delivered.
+
+ 89. WER:  0.0% D: 0 I: 0 R: 0 | 80644538-fa3c-4f76-3f90-eff8ce0695d2
+     GT: Tell me about the migratory patterns of the North America Monarch butterfly
+     TX: Tell me about the migratory patterns of The North American monarch But Butterfly
+
+ 90. WER:  0.0% D: 0 I: 0 R: 0 | 02ac751f-65cf-aa0e-1797-3f240fab9759
+     GT: really good base layer of skin care so that anything you put on
+     TX: A really good base layer of skincare so that anything you put on on
+
+ 91. WER:  0.0% D: 0 I: 0 R: 0 | 6044817a-551d-1807-5640-cfc546485173
+     GT: she would touch on but anyway this mom is getting sued for like
+     TX: She would touch on, but anyway, this mom is getting sued for like
+
+ 92. WER:  0.0% D: 0 I: 0 R: 0 | 9565dd38-8116-54a7-e667-144c1a09d504
+     GT: Yeah let me look let me look that up just a moment
+     TX: Uh, yeah, let me look, let me Look that up. Just a moment. Please
+
+ 93. WER:  0.0% D: 0 I: 0 R: 0 | 9f9802d6-6ddd-9fa3-c20f-acb9aa73a4d3
+     GT: I need to appear in court on Monday
+     TX: I need to appear in court on Monday.
+
+ 94. WER:  0.0% D: 0 I: 0 R: 0 | c84503ca-110a-51d6-0b24-f17deb7a2882
+     GT: Mhm.
+     TX: Mhm.
+
+ 95. WER:  0.0% D: 0 I: 0 R: 0 | 9b06f5a5-7f21-f4c0-7f0b-1d48e902ffc0
+     GT: I need a complete and official checklist of all the specific identification documents I will need to bring with me to the Department of Motor Vehicles to successfully obtain a Real ID driver's license.
+     TX: I need a complete An official checklist Oh! All the Specific Identification documents I will need to bring with me to the Department of Motor Vehicles two successfully obtain a real ID driver's license.
+
+ 96. WER:  0.0% D: 0 I: 0 R: 0 | 71bf9886-c1e8-e2ce-0e14-5fb6a41946e6
+     GT: Wait, hold on because
+     TX: Wait. Hold on, because
+
+ 97. WER:  0.0% D: 0 I: 0 R: 0 | 209eda2a-35fa-868a-1ac6-d74fa208bbcf
+     GT: My sister called me about the birthday party and
+     TX: My sister called me up About the birthday party And
+
+ 98. WER:  0.0% D: 0 I: 0 R: 0 | 052ba5bd-48a3-2c25-883d-e2f25a953d7e
+     GT: Can you clear my schedule for the morning of the fifth
+     TX: Can you clear my schedule for the morning of the fifth? So
+
+ 99. WER:  0.0% D: 0 I: 0 R: 0 | f2df60f7-c3ae-3603-910b-1092bd05aed5
+     GT: Can you help me brainstorm ideas for my presentation on
+     TX: Can you help me brainstorm? ideas for my Presentation Oh. Um. Uh.
+
+100. WER:  0.0% D: 0 I: 0 R: 0 | 06c41bf6-3d0e-be8a-37da-e8e76c13a25c
+     GT: How do I approach the topic of finances with my
+     TX: How do I approach the topic of finances? With my
+
